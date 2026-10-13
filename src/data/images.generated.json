@@ -1,0 +1,259 @@
+{
+  "morango-cravejado": {
+    "width": 3024,
+    "height": 3024,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQBQCdASoYABgAPtFUoE2oJKMiN+gBABoJagCsMyYCvwGFRoe479tK356L93o7C1GghI5oQWUAAP23m5TlPFQT/VRgv1qL54DHJP9x7PQ70z3+Zax4ZghEkgSkOZUa4LXDwC1+Ns2rZGnZIK9gNzPk+h+tKf5L8JziTCUbY0OC0VRV25oktPlH4QAAAA=="
+  },
+  "morango-cravejado-preparo": {
+    "width": 4096,
+    "height": 4096,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQBQCdASoYABgAPu1oqk8ppiOiKA1RMB2JbACdMoR6boABUUWqRLSVUBGySx+HfIDgAP3socNKjISifOiHW82dY5AutPyYww7DZRDsaj+JXWdA1LX0A/ZTVWsHOaNjN57cbTAL4oMA/TN8Jx2HH+1NPwmnJC+ICJCGr/iUG57h9TgBKP/Um5sEB4dkDVM7gD9BuwVZ3hQm0AAA"
+  },
+  "lalajor-doce-de-leite": {
+    "width": 1248,
+    "height": 1248,
+    "widths": [
+      480,
+      800,
+      1200,
+      1248
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBQCdASoYABgAPu1srFCppaQiqAqpMB2JaACdMzLjbBKhPppkkTixbrwai559qcztfkwtebgA8I9O/KFNAIk/cswDcHKpMqFyns+LFLr0aaAjZs67/UTfZ0p+S5iy5jVuSVS5rujU03YDJMA0NMeJZHzbrGOzWmp5oF9+reGAqdoJBXFHb21JIJxmlE85n3oEwBRizu3LrbU4v8BdlQAA"
+  },
+  "fudge-meio-amargo": {
+    "width": 720,
+    "height": 719,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADwBQCdASoYABgAPu1ip06ppSMiMBgMATAdiWgAnTMkpYwdnj5Jg03crPOOKScGwpy0KASYc7U1AADJMZA+nOP4bnGTfDAFFayMa3oX91iNcJ/3vkaj0rCuFKDlIi+GiDjZHq4ZEGZY3ov2dU0iR++AAZyRvBAuQgPyI2GBbjWi/W8zMEPt22uWDpbxhy1KHq5qUoLDNC+6JkzlDKAAAA=="
+  },
+  "cookies-nutella": {
+    "width": 1120,
+    "height": 1120,
+    "widths": [
+      480,
+      800,
+      1120
+    ],
+    "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABwBQCdASoYABgAPu1qqlEppaOiqAqpMB2JYgCdMoR/d6mAy5rkMvu25/ARj/djKYzjyq0AAPXCS6A68HaUYahU54DpYjjAnnKtcnPoE9SYbuq9C8yOb/srkvtLLVw1YQPNgcSEP4CsXvbrhz2OIBoXFaA/WysQIyaKBgW34sfLI98U/9RCxR0Y7pSsf29F2ZefIenV2pmp4j1BJHaL8FOaaIWMgAAA"
+  },
+  "cone-trufado": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBQCdASoYACAAPuVgpU2pJaOiMAwBIByJQBdmYwBQZHEMQ7+Xp48K71FkkobQmcdqwADZw65Xx7FR8VjfYjds81jbHaMTD4Nd3P7dLR+xoZ8C+WKeoOXIfRVFtJXfN82KZ8wI/azP1oQLkFKWZ8xSF8rFE+HlH+nuqEoh2h1Id4GAAAA="
+  },
+  "cone-trufado-2": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBQCdASoYACAAPtlcpE2oJSOiN/qoAQAbCUAXqwrvD3qKhHE2bikvDXJuIEjJMhZFNfTaJdwAAPr+U1k2s2FaGozhDkac+uGZ/KeazRjTdcRijxA/rnHpU+4GGTgeMRNvEZSXBFWMlKcz3Yhn4M5VbuSks1jyjfVHMosPHS1sz1DroNVzX1AA"
+  },
+  "nevado-cremoso": {
+    "width": 720,
+    "height": 900,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBgCdASoYAB4APu1cqE2ppKOiN/VYATAdiWoAnTMy91iWSzV7jXQXHc153KAhLmP4tDrBUy22cAAA/sVcnFXExIPAROYCEP7VBEx7AlCyt7aIRcgH1uXKxAo5zPBKsElpOn0jD7InrvmbuGOhDlFfXhft0K+EiVVX4FQhdlRBbZTIW5p0+Nm+C3VaFDjalUgAAA=="
+  },
+  "nevado-brigadeiro-branco": {
+    "width": 720,
+    "height": 900,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBQCdASoYAB4APu1ipU4ppSMiMBgMATAdiWIAACnGL7lNvkLxqNY8VJ2nT4Kz/Xa5tgAA/plh6eMdkB9fbI6vibwGMVo+2azsuPOESYAKDy/oz1lB8jEf1hTCW0IoDV1StGIfI1gpJkmahwQKsALIgn8gcjCvTp458GoDcLvu9w8LCvVruikAAAA="
+  },
+  "nevado-creme-ninho": {
+    "width": 720,
+    "height": 900,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBQCdASoYAB4APu1urVCppqQiqAqpMB2JQBOmYwA0NAJXt+khBDyvyh7PWp1EbPAAAP7fWQChsAE7+tSqTU2VSySQCSIVDHDGn8+anneK0dy3SByR+XXrwGSqscUbH+NPniDeDhDp8rCkVdkoOJv/C2nAugCahW+VeAEMQLhNrd4AAAA="
+  },
+  "nevado-geleia-morango": {
+    "width": 720,
+    "height": 900,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQBQCdASoYAB4APuFcqE2opSQiMAwBEBwJYgCdAB6V+xcOoVegJ9AEDOcu3GbFP69AnBrICquAAP7n+nE2rrkS0p6hqg6QzWRtXDy6gW3L9vFE/VIyLP7mWo5LijL+K38veD/H6tVx+VO+tOjjEBTNB8XPabraib1zpF6EUmi5z0DcvgeJ8OkI5AAAAA=="
+  },
+  "big-bites": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBQCdASoYACAAPtFUoU2oJKMiN+gBABoJaACdMoADZ5Rid6ZwHJcVnMRQb1kFzbITQAD8yfdpXeYBegZakc5LmBeenUcqCdstemMYutgzhhgmsqSCynIV2Yw1Hz0feBEZo/x+QajbE4MffByIoWqXlLOqmKQya4DqHaWey9Slpt2aqMmB4euTvzFy3NRjSK4GLMHTWYjUSGV0Kt5hMXK7fGLp1EAAAAA="
+  },
+  "pao-de-mel": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQBQCdASoYACAAPu1kqU4ppaOiMAgBMB2JaACdMoADgPCKXysZ3tBr8X35N1nXn7US/7GMnimwAP4IBFC3cJreJclkF92bKL9MIZVu74BvKFR9FYEyEa7ZGQXOIWLkGkFhtrw7DcMsoCZQqxnhYpzP6bTWJN6NBiJh/zvO0NQ0p4/VVX5ulSklRsNFxAycVosDypKmIXgpbMFwqFdCHr9DoAA="
+  },
+  "chocotone-ninho-nutella": {
+    "width": 640,
+    "height": 853,
+    "widths": [
+      480,
+      640
+    ],
+    "placeholder": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBQCdASoYACAAPu1mqE2ppaOiMAgBMB2JagCdMuz8eHalaf7chqw7H8zifHJweP4NjgxAAP62F+nuEIPPvtf+r4O3OmgdpENX2Yq8R3lh5WZcJfThSpeV5/IjK9KYrFlUnHdsdzx047JPH83YzS9XatM2yvMY/gLeVdnu+P3yKsKPN6CljNKi3RW/rKIXzb5Pe69ydevguRMxquy7Dkw7SH65FfBwliN4LamR3OQXfcKUh/2p0AKnDNpIgAAA"
+  },
+  "chocotone-doce-de-leite-nozes": {
+    "width": 640,
+    "height": 853,
+    "widths": [
+      480,
+      640
+    ],
+    "placeholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBQCdASoYACAAPu1mqk2ppaQiMAgBMB2JagCxDHACVCiyBrinJh5jsDIE5uQw65+EAPD94TKHpEIEQheHP7n8dl2+MJkFeiNlmCCYDdUYG5PjxAvkPU6N3vq+1/CtsfvSssDmCLiHoO5pjSemnu/ScYHYXqEoEBIFjPk9sVqsWe5tGw+eS/EXgDW8Y0RY1pI8fCUF2z6NPJnxIbPvxHRmHT5PX/DrX2XwAAAA"
+  },
+  "ovo-pascoa-kinder-bueno": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQBgCdASoYACAAPu1qqk8ppiOiMBgIATAdiWoAnTLs+1jYARe5VkiFopsFi0hzZfQ4y0sd6wAxHNgA/sa3O1RpTWg+JZDIH7vxsTKhj8m5aFYGeODHCCnTZxFtE2bZM3ygk0JwLOOXF7mWyrLEQLSJor51hlYgBcpDw2E0KczkIoLv7g39gpMFM5CQTIUEcHxhEdJ+Eluy44U33KxGmVlBBAA="
+  },
+  "ovos-pascoa-selecao": {
+    "width": 720,
+    "height": 958,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBQCdASoYACAAPu1oqk4ppiQiMAgBMB2JZACdLzwB0ad9gQ2s33QMdgY554Dg27sKAP7TCFfXrLrXnjvOTODG5qt6q6UKfNdkyFtxZj43qSkRxRoCV2q75z+XD1VAPQAm/bsgu6OfqSKRjoCKAd0GHYOpS2HrLKIlKVQnczYV/Xwh2i2s1mNhUt+39UMIjQAAAA=="
+  },
+  "ovos-pascoa": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQBQCdASoYACAAPuFgqE2opaQiMAwBEBwJagCsL7C/kilCSRnY7Q4CKmmsYRah3gcZHPZjUAD+5y60HjE0A/BYhDwnArj4Cf83Nq+UvXaWlhVzO/cBWlKR+l0vc81UQxqQE0k8Z2KGO0za9FtBZCNGUw5zYX/0kgBAsUMd5nRw7v+l+gMXzQzmdZAAAA=="
+  },
+  "empadao-frango": {
+    "width": 600,
+    "height": 600,
+    "widths": [
+      480,
+      600
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADQBQCdASoYABgAPu1iqE2ppaOiMBgMATAdiWwAnTLs+1j7wO+ulJf/DdViQjqUP5RdyS5hDVAAAPp13wy4g0T4xMhcMbOFma6g79z9KxL4wELgC8HbaaWl+4lQemaX71HxnCCr63Vfj2kr8JUqE++Dc7VY6ox8tlcMrb5ls2Io02G7NHqXZ/N4XGQEyuDuR2NMTad8+m2GDFrqgAA="
+  },
+  "tortinha-palmito": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBQCdASoYACAAPu1mrE6ppaQiKA1RMB2JaACsMtpFhTrW/mp5fLhefvnaW71Z48+nRAAA/t7swWPUy9mkkM4ve6KK7f7P60U+7jCKPKrYyjO1oMVe5/nk1N+z13nBaTQItmrVorcfjwnyJk4cfs+DAiNV9AEDMirR0gYSotiaMEILCd3ex7pZWty9uzrOJXdwyXp0f4OtH0AA"
+  },
+  "baguete-recheada": {
+    "width": 720,
+    "height": 960,
+    "widths": [
+      480,
+      720
+    ],
+    "placeholder": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBgCdASoYACAAPu1eq02ppKQiMBgMATAdiWwAnTlBUs+QAEeISz9Qiq/MgeuBMTGkLHGVhdYlIWMAAPpBQpcg2kYmZ6rgAHdVFQ7SrM+qYYm5cuzLAuKA55tOBDy3VsGYW7HAoqzl1u4bfVYhrOHCYJhEpKRtkDe0z7xn8lBs8Dv6vMLdzBwkYBAY5RiUpChkHN9By41LRbXo3I3b4wK2xFvTwAAA"
+  },
+  "paozinho-artesanal": {
+    "width": 640,
+    "height": 784,
+    "widths": [
+      480,
+      640
+    ],
+    "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBgCdASoYAB0APu1kp02ppaOiMBgMATAdiWwAnTlBVB3BfdOIeEUVzNbF/3WPX7IwUHw1T9hOo6x3d5+4APuabDyHUPlLN86LxrToTfHJTDyI09dVWRZn8yYjMy6/GR2WrXQ89Wd7fECVvX6agqCrLXRsAg1+aDM4IhhIhfIEI2yUcVkUlpJOsK7zwxIn9G1T2BZmAAA="
+  },
+  "fachada-loja-1": {
+    "width": 680,
+    "height": 383,
+    "widths": [
+      480,
+      680
+    ],
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JQBOj+ABjiwO+bMEOwoU/gAD8wQvTObFzt7xHYaXaioAQsd30E90VDUcM8TXvV8QDgPBDtrF1M9QTYgAAAA=="
+  },
+  "fachada-loja-2": {
+    "width": 680,
+    "height": 453,
+    "widths": [
+      480,
+      680
+    ],
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAgCdASoYABAAA4BaJYwCsAEN6VEm6pnuV6BpgAD+63Pw6D4XEkzcT+mlWT9vq0c9UWfADD+t9O7SVslrnpEy/AWBPbn2DqfKFAAA"
+  },
+  "interior-loja-1": {
+    "width": 287,
+    "height": 510,
+    "widths": [
+      287
+    ],
+    "placeholder": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBgCdASoYACsAPu1qqlAppiOiqrgMATAdiWIAuzNCwzrIA/cwcV+qgVXViy8tC2nDINluSSzUZDl9EAAA7ojqj9gUoWCqoW5+1iQMV9uWwWyYegSq501H/2pfTDm57CyLwBjxtvKss6FWDRQTyEGIus6Kbauh8R3SkazyA8iMQ+/BVRPpJBdGb1mTRsbWvHnB+52W/Kd6KBUupoJjRl14iE28lS7969qeioafAAA="
+  },
+  "interior-loja-2": {
+    "width": 680,
+    "height": 453,
+    "widths": [
+      480,
+      680
+    ],
+    "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASoYABAAPu1kq04ppaQiMAgBMB2JZgCdMoR4GCnzy3zJ0BUDaleDemIA/rZoWX6BwNrRLZOjHhQn3a5virSEahWT14VDprpVCrXGWOyDiA1Jjb+GcutlOKajWrz/Hx3QAAA="
+  },
+  "interior-loja-2-b": {
+    "width": 680,
+    "height": 453,
+    "widths": [
+      480,
+      680
+    ],
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYABAAPu1oqk6ppiQiMAgBMB2JYwCsABRkR3KtJHXeNKwAAPaPRI3DUkR94mQdpLwqTQbLKAkiOY3wdrSFEHsdJ6HDctxPvAiXygQE/PHAAA=="
+  },
+  "interior-loja-2-c": {
+    "width": 340,
+    "height": 510,
+    "widths": [
+      340
+    ],
+    "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQBQCdASoYACQAPtlco02oJaMiOrZoAQAbCWMAyrQSGm+H8uPZf4jMNcMaI98Br8iiQA9Hi7kgAPt8WDC3v4lqbbnRQytFcFj6NGWOL9HRRh55QiX4fikcxbfYOEIWyupym35XVmZF77pMjXN0QCcUDWNd6IB1IFxSDi3ltiIKao7yLv9pW6vDW1gAAA=="
+  }
+}
